@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be32f7f-3e7c-4822-bc0b-7ed31e01a959" name="Changes" comment="image 5%" />
+    <list default="true" id="6be32f7f-3e7c-4822-bc0b-7ed31e01a959" name="Changes" comment="image 5%">
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/wither/image/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/wither/image/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/wither/image/main.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/wither/image/main.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/wither/image/poitong potong.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/wither/image/poitong potong.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.poitong potong">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="image" />
       <option name="ENV_FILES" value="" />
@@ -127,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724941421521</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="image 5%">
+      <option name="closed" value="true" />
+      <created>1725025106570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725025106570</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

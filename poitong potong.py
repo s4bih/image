@@ -3,7 +3,7 @@ import cv2
 image = "th.jpeg"
 
 image_path = cv2.imread(image)
-'''
+
 def crop_image(image,x,y,w,h):
     # cropping image
     crop_img = image[y:y+h, x:x+w]
@@ -36,11 +36,11 @@ def rotate_image(image, angle):
     return rotated_image
 
 rotated_image = rotate_image(image_path, 180)
-cv2.imshow ('Original Image', image_path)
+cv2.imshow('Original Image', image_path)
 cv2.imshow('Rotated Image', rotated_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
+'''
 
 
 
